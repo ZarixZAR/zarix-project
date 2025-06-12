@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zarix-logo.png" width="200" alt="Zarix Logo">
+  <img src="Logo.png" width="200" alt="Zarix Logo">
 </p>
 
 # Zarix (ZAR) – Cultural Token on BNB Chain
