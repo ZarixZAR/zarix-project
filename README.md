@@ -21,9 +21,13 @@ Zarix is a cultural-economic cryptocurrency that blends heritage with blockchain
 - [View on BscScan](https://bscscan.com/token/0x5f65cce050fca1b5f6cf9b51279d2d9fb8ac30bd)
 
 ## 📣 Social Media
-- Website: https://zarix.xyz  
-- Twitter: https://twitter.com/ZarixToken  
-- Telegram: https://t.me/ZarixCommunity
+- https://zarix.net
+- https://t.me/ZarixZAR
+- https://x.com/ZarixOffical
+- https://www.instagram.com/zarix_ZAR
+- https://github.com/ZarixZAR
+- https://rddit.com/r/ZarixZAR
+
 
 ---
 
