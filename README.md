@@ -36,3 +36,4 @@ Zarix is a cultural-economic cryptocurrency that blends heritage with blockchain
 
 ## 📝 License
 MIT
+add logo to readme
