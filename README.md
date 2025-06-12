@@ -1,6 +1,7 @@
 <p align="center">
   <img src="zarix-logo.png" width="200" alt="Zarix Logo">
 </p>
+
 # Zarix (ZAR) – Cultural Token on BNB Chain
 
 Zarix is a cultural-economic cryptocurrency that blends heritage with blockchain. Built on the Binance Smart Chain (BSC), it aims to tokenize culture through NFTs, DAOs, and decentralized payments.
